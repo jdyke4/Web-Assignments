@@ -16,7 +16,7 @@ h1 {text-align: center;
 
 p {float: left;
   height: 70px;
-  width: 90%;
+  width: 30%;
   margin-right: 10px;
   margin-left: 10px;
   font-size: em;
@@ -59,7 +59,6 @@ p {float: left;
 @media (max-width: 767px) {
 
 
-  }
 
 }
 
