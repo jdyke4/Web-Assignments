@@ -43,32 +43,22 @@ p {float: left;
     border: 1px solid black;
 
 }
-.row {
-  width: 100%;
-}
 
-
-}
 
 
 @media (min-width: 992px) {
-  .Col-lg-4 {
-    float: left;
-    border: 10px solid black
-  }
+
 
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
-  .col-md-6 {float: left;
-  border: 10px solid black}
+
 
 }
 
 @media (max-width: 767px) {
-  .col-sm-12 {
-    float: left;
-    border: 1px solid black;
+
+
   }
 
 }
